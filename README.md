@@ -1,5 +1,6 @@
 # Refactoring Horiseon Social Solution Services, Inc. Code.
 
+
 ## Description
 --------------
 
@@ -32,14 +33,14 @@ The following changes were made to the codes,
 ## Installation
 ---------------
 - <p>Not required.</p>
-- <p>You can view the website here, Horiseon Social Solution Services.</p>
+- <p>You can view the screenshot or live website in the Usage section, below.</p>
 
 --------------------------------------------------------------------------------------------------
 
 ## Usage
+--------
+Preview the homepage or visit the live website by
+ [clicking here, Horiseon Social Solution Services](https://skhai77.github.io/horiseon-code-refact/index.html).
 
- Click the website, "Horiseon Social Solution Services".
+![Horiseon Homepage Screenshot](assets/screenshots/horiseon-homepage.png)
 
-```md
-![This is the screenshot for preview.](./assets/images/brand-awareness.png)
-```
