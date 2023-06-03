@@ -38,10 +38,10 @@ header {
     color: #ffffff;
 }
 
-header h1, #seo {
+header h1, span {
     display: inline-block;
     font-size: 48px;
-    color: #d9dcd6;
+    color: #d9dcd6;    
 }
 
 /* navigattion */
@@ -64,16 +64,15 @@ header nav ul li {
 }
 
 /* featured image */
-.hero {
+.hero img {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
 
-/* main/ services content */
+/* services content */
 .content {
     width: 75%;
     display: inline-block;
