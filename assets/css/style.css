@@ -7,27 +7,15 @@
 
 body {
     background-color: #d9dcd6;
+    font-size: 16px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
 }
 
 /*  hyperlink */
 a {
     color: #ffffff;
     text-decoration: none;
-}
-
-h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* Paragraph */
-p {
-    font-size: 16px;
 }
 
 /* Header */
@@ -40,8 +28,7 @@ header {
 
 header h1, #seo {
     display: inline-block;
-    font-size: 48px;
-    color: #d9dcd6;
+    font-size: 48px;    
 }
 
 /* navigattion */
@@ -49,9 +36,7 @@ header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-    list-style-type: none;
 }
 
 header nav ul {
@@ -64,16 +49,14 @@ header nav ul li {
 }
 
 /* featured image */
-.hero {
+.hero img {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
+    object-fit: cover;
 }
 
-/* main/ services content */
+/* services content */
 .content {
     width: 75%;
     display: inline-block;
@@ -90,20 +73,20 @@ header nav ul li {
     margin-left: 25px;
 }
 
-#search-engine-optimization,
-#online-reputation-management,
-#social-media-marketing {
+.content-article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
 }
 
-#search-engine-optimization img,
-#online-reputation-management img,
-#social-media-marketing img {
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.content-article img {
     max-height: 200px;
 }
 
@@ -120,16 +103,17 @@ header nav ul li {
     color: #ffffff;
 }
 
-.benefit-lead,
-.benefit-brand,
-.benefit-cost {
+.benefits-article {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead img,
-.benefit-brand img,
-.benefit-cost img  {
+h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.benefits-article img {
     display: block;
     margin: 10px auto;
     max-width: 150px;

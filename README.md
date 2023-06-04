@@ -9,17 +9,17 @@ The following changes were made to the codes,
 
 ### HTML File 
 - Replaced the page's title with a descriptive page title.
-- Added **alt** attributes to **img** tags for image accessibility.
+- Added alt attributes to img tags for image accessibility.
 - Replaced generic elements and selector names with appropriate semantic elements and selector names.
 - Added comments properly before each element or section of the code.
 - Fixed indentation of the code.
 
 ### CSS File
-- Added comments properly before each selectors or section and properties of the code. 
+- Added comments properly before each section or selectors and properties of the code. 
 - Reduced duplicate codes by changing, replacing and combining selectors.
 
 
-## Code Languages
+## Code Language
 
 - HTML
 - CSS
