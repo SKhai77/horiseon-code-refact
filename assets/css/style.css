@@ -28,7 +28,8 @@ header {
 
 header h1, #seo {
     display: inline-block;
-    font-size: 48px;    
+    font-size: 48px;
+    color: #d9dcd6;    
 }
 
 /* navigattion */
