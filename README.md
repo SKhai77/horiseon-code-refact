@@ -1,9 +1,19 @@
 # Refactoring Horiseon Social Solution Services, Inc. Code.
 
 
+## Table of Contents
+
+If your README is long, add a table of contents to make it easy for users to find what they need.
+
+- [Description](#description)
+- [Code Languages](#code-languages)
+- [Installation](#installation)
+- [Usage](#usage)
+
+
 ## Description
 
-This project was made to refactor Horiseon Social Solution Services homepage's codebase so that it follows accessibility standards and optimized for search engines.
+This project was made to refactor Horiseon Social Solution Services homepage's codebase so that it follows accessibility standards and is optimized for search engines.
 Also to increase the efficiency of the CSS by consolidating the selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
 The following changes were made to the codes,
 
@@ -19,7 +29,7 @@ The following changes were made to the codes,
 - Reduced duplicate codes by changing, replacing and combining selectors.
 
 
-## Code Language
+## Code Languages
 
 - HTML
 - CSS
@@ -33,7 +43,8 @@ The following changes were made to the codes,
 
 ## Usage
 
-Preview the homepage or visit the live website by
+- It is a normal webpage and no particular instruction is needed.
+- Preview the homepage or visit the live website by
  [clicking here, Horiseon Social Solution Services](https://skhai77.github.io/horiseon-code-refact/index.html).
 
 ![Horiseon Homepage Screenshot](assets/screenshots/horiseon-homepage.png)
