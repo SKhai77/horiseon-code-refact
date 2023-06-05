@@ -3,9 +3,8 @@
 
 ## Table of Contents
 
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
 - [Description](#description)
+- [Refactored Details](#refactored-details)
 - [Code Languages](#code-languages)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -15,18 +14,22 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 This project was made to refactor Horiseon Social Solution Services homepage's codebase so that it follows accessibility standards and is optimized for search engines.
 Also to increase the efficiency of the CSS by consolidating the selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
-The following changes were made to the codes,
 
-### HTML File 
+
+## Refactored Details
+
+The following changes were made to the codes:
+#### HTML File 
 - Replaced the page's title with a descriptive page title.
 - Added alt attributes to img tags for image accessibility.
 - Replaced generic elements and selector names with appropriate semantic elements and selector names.
 - Added comments properly before each element or section of the code.
-- Fixed indentation of the code.
+- Fixed indentation and spacing of the code.
 
-### CSS File
+#### CSS File
 - Added comments properly before each section or selectors and properties of the code. 
-- Reduced duplicate codes by changing, replacing and combining selectors.
+- Reduced duplicate properties of the code by changing, replacing, combining selectors and properties.
+- Reorganized, properly spaced and indented the code.
 
 
 ## Code Languages
